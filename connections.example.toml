@@ -1,0 +1,5 @@
+# Add your target database connections here
+# Connection name = port number
+[connections]
+example-mysql = 3307
+example-postgres = 5433
