@@ -1,6 +1,6 @@
 # Hoop Multi Connector
 
-This Python script allows you to connect to multiple Hoop servers at once.
+This Python script allows you to connect to multiple Hoop.dev protected databases and services at once.
 
 ## Prerequisites
 
