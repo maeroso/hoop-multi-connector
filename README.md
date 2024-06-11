@@ -5,7 +5,7 @@ This Python script allows you to connect to multiple Hoop.dev protected database
 ## Prerequisites
 
 - Python 3 with the `toml` package installed. Python 3.11 has it built-in.
-- Hoop CLI installed and authenticated
+- [Hoop CLI](https://github.com/hoophq/hoopcli) installed and authenticated
 
 ## Setup
 
